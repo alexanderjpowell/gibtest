@@ -10,10 +10,7 @@
 		"start": "node twitter.js"
 	},
 	"dependencies": {
-    	"express": "^5.6.0", 
-    	"twitter": "^5.6.0", 
-    	"http": "^5.6.0",
-    	"twilio": "^5.6.0"
+    	"express": "5.6.0"
 	},
 	"repository": {
     	"type": "git",
