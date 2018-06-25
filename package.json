@@ -9,9 +9,6 @@
 	"scripts": {
 		"start": "node twitter.js"
 	},
-	"dependencies": {
-    	"express": "5.6.0"
-	},
 	"repository": {
     	"type": "git",
     	"url": "https://github.com/alexanderjpowell/gibtest"
